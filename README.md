@@ -16,13 +16,13 @@ To run the build, download the files “data”, “SDL2.dll”, and “Final_Bu
 **! If the Volume is not visible try adjusting the “clipping plane z” slider in the UI window in “Entities/Visible node/Material” !**
 
 Added files:
-ray_marching.fs (Fragment shader that contains the ray_marching algorithm and the jittering, clipping, and transfer functions)
+- ray_marching.fs (Fragment shader that contains the ray_marching algorithm and the jittering, clipping, and transfer functions)
 
 
 We edited the following files:
-application.cpp (created VolumeNode)
-material.cpp / material.h (VolumeMaterial logic)
-scenenode.cpp / scenenode.cpp (VolumeNode logic)
+- application.cpp (created VolumeNode)
+- material.cpp / material.h (VolumeMaterial logic)
+- scenenode.cpp / scenenode.cpp (VolumeNode logic)
 
 
 ## Functionality
