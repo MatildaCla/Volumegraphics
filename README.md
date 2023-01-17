@@ -29,12 +29,12 @@ scenenode.cpp / scenenode.cpp (VolumeNode logic)
 Model: Change the position, rotation, and scale of the volume
 
 Material:
-Step Length: Adjust the length of the ray steps. Smaller steps lead to a higher resolution
-Brightness: Adjust the brightness of the volume
-Jittering Noise: Displace the rays using a noise texture. This avoids artifacts caused by a very small step length
-Jittering Function: Displace the rays using a function. This avoids artifacts caused by a very small step length
-Clipping Plane z: Adjust the clipping plane along the z axis
-Transfer Function: Apply a transfer function to the volume. This helps to visualize certain parts of the volume better. “Bone” and “Organs” work with the “Abdomen” Volume. “Custom” allows the user to configure their own transfer function using sliders.
+- Step Length: Adjust the length of the ray steps. Smaller steps lead to a higher resolution
+- Brightness: Adjust the brightness of the volume
+- Jittering Noise: Displace the rays using a noise texture. This avoids artifacts caused by a very small step length
+- Jittering Function: Displace the rays using a function. This avoids artifacts caused by a very small step length
+- Clipping Plane z: Adjust the clipping plane along the z axis
+- Transfer Function: Apply a transfer function to the volume. This helps to visualize certain parts of the volume better. “Bone” and “Organs” work with the “Abdomen” Volume. “Custom” allows the user to configure their own transfer function using sliders.
 
 Volume: Select a volume to display it
 
