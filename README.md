@@ -13,7 +13,7 @@ https://fhooe-my.sharepoint.com/:u:/g/personal/s2010238017_fhooe_at/ES0QqkgmlHJB
 
 To run the build, download the files “data”, “SDL2.dll”, and “Final_Build.exe”. Then run the exe.
 
-! If the Volume is not visible try adjusting the “clipping plane z” slider in the UI window in “Entities/Visible node/Material” !
+**! If the Volume is not visible try adjusting the “clipping plane z” slider in the UI window in “Entities/Visible node/Material” !**
 
 Added files:
 ray_marching.fs (Fragment shader that contains the ray_marching algorithm and the jittering, clipping, and transfer functions)
